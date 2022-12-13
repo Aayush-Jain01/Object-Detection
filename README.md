@@ -1,5 +1,5 @@
 # Object-Detection
-This repo is an ongoing self-project based on Car Object Detection Dataset (https://www.kaggle.com/sshikamaru/car-object-detection)
+This repo is a self-project based on Car Object Detection Dataset (https://www.kaggle.com/sshikamaru/car-object-detection)
 
 Key Highlights :-
 
